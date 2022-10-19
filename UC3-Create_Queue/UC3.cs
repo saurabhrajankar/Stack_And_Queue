@@ -52,7 +52,7 @@ namespace UC3_Create_Queue
             }
         }
     }
-    internal class SQ3
+    internal class main
     {
         static void Main(string[] args)
         {
