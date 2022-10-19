@@ -70,7 +70,7 @@ namespace UC4_Deque_For_Begning
             }
         }
     }
-    internal class SQ4
+    internal class main
     {
         static void Main(string[] args)
         {
