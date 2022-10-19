@@ -66,7 +66,7 @@ namespace UC2_Peak_Pop_From_Stack
             }
         }
     }
-    internal class SQ2
+    internal class main
     {
         static void Main(string[] args)
         {
