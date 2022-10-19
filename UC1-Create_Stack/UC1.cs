@@ -43,7 +43,7 @@ namespace UC1_Create_Stack
             }
         }
     }
-    internal class SQ1
+    internal class main
     {
         static void Main(string[] args)
         {
